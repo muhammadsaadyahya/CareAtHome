@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="#D7265F" android:state_pressed="true"/>  <!-- Pressed: deep hot pink -->
+    <item android:color="#FF5C87" android:state_focused="true"/>  <!-- Focused: soft coral -->
+    <item android:color="#FF5C87" android:state_hovered="true"/>  <!-- Hovered: soft coral -->
+    <item android:color="#FF416C"/>                                <!-- Normal: sexy coral-pink -->
+</selector>

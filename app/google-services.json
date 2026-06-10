@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460058525387",
+    "project_id": "careathome-1afc4",
+    "storage_bucket": "careathome-1afc4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460058525387:android:a00c695c40307fa82da54e",
+        "android_client_info": {
+          "package_name": "com.example.careathome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFUv6LyNga_g9iah6pNuGFYue2tt-om_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
